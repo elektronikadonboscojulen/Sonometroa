@@ -5,8 +5,8 @@
 2. HELBURUA </p>
 3. FUNTZIONAMENTU MEMORIA </p>
 &nbsp;&nbsp; 3.1 Alternatibak </p>
-&nbsp;&nbsp;&nbsp;&nbsp;3.1.1. Sonometroa arduinoarekin eraikitzea </p>
-&nbsp;&nbsp;&nbsp;&nbsp;3.1.2. Sonometro bat erosi </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1. Sonometroa arduinoarekin eraikitzea </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2. Sonometro bat erosi </p>
 &nbsp;&nbsp;3.2. Proteus eskemak </p>
 &nbsp;&nbsp;3.3. PCBen diseinua </p>
 &nbsp;&nbsp;3.4. Hardwarea </p>
